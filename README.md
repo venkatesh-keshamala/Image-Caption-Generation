@@ -54,3 +54,5 @@ python manage.py runserver
 
 
 RESULTS:
+
+![dog](https://github.com/venkatesh-keshamala/Image-Caption-Generation/assets/116023226/fe623b6b-e78b-47fc-9ed1-2c5836ba1fc3)
